@@ -1,0 +1,44 @@
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+.sec1{
+    overflow: hidden;
+    width: 80%;
+    text-align: center;
+}
+.sec1 h2{
+    padding: 13px 131px;
+    text-decoration: underline;
+}
+
+.info{ 
+    text-align: justify;
+    width: 40%;
+    float: left;
+    padding: 15px 100px;
+    line-height: 30px;
+    font-size: 20px;
+
+}
+.info ul{
+    list-style-type: none;
+}
+.img{
+    width: 40%;
+    float: left;
+    padding: 38px 2px;
+}
+.sec2 h2{
+    padding: 20px 132px ;
+}
+
+.sec3 {
+    line-height: 40px;
+    padding: 10px 126px;
+}
+
+footer{
+    text-align: center;
+}
